@@ -1,5 +1,5 @@
 {
-  "version": "3.7.92",
-  "zip": "https://cdn.jsdelivr.net/gh/qq499797400-cpu/ximao-updates@main/ximao-v3.7.92-client.zip",
-  "note": "在线更新已接入；按页面对齐排序；妙手本地图加载修复"
+  "version": "3.7.93",
+  "zip": "https://cdn.jsdelivr.net/gh/qq499797400-cpu/ximao-updates@main/ximao-v3.7.93-client.zip",
+  "note": "SKU主体一致性(洗后主图统一参考)+按页面对齐+妙手本地图修复，三合一版本"
 }
